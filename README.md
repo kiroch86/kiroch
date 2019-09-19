@@ -8,9 +8,6 @@ Platform.js is for informational purposes only & **not** intended as a substitut
 
 ## Documentation
 
-* [doc/README.md](https://github.com/bestiejs/platform.js/blob/master/doc/README.md#readme)
-* [wiki/Changelog](https://github.com/bestiejs/platform.js/wiki/Changelog)
-* [wiki/Roadmap](https://github.com/bestiejs/platform.js/wiki/Roadmap)
 
 ## Installation
 
